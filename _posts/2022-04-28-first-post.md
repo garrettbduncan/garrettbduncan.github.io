@@ -1,21 +1,19 @@
-# Blog Post Title From First Header
+# Our First Blog Post
 
-Due to a plugin called `jekyll-titles-from-headings` which is supported by GitHub Pages by default. The above header (in the markdown file) will be automatically used as the pages title.
-
-If the file does not start with a header, then the post title will be derived from the filename.
-
-This is a sample blog post. You can talk about all sorts of fun things here.
+We're just getting started. More to come.
 
 ---
 
-## This is a header
+## Recent events
 
-### Some T-SQL Code
+- Garrett just graduated with his masters of statistics degree from BYU. He's excited to graduate, but he'll miss his buddies there. Shoutout to Dr. Christensen for being the best advisor of all time.
+- Rachel finished her second year (of three) of law school at BYU.
+- Bojangles turned a year old this April. She's still a menace and a primmadonna.
+- Garrett bought a mountain bike recently which has become one of his top hobbies.
+- Rachel is training for a marathon at the end of the summer.
 
-```tsql
-SELECT This, [Is], A, Code, Block -- Using SSMS style syntax highlighting
-    , REVERSE('abc')
-FROM dbo.SomeTable s
-    CROSS JOIN dbo.OtherTable o;
-```
+We'll be moving to Murray, UT this summer to be closer to Rachel's work at Michael Best. Excited for a change and to try a new place!
 
+![Us at the Portland, OR coast near the end of February.](_files/portland.jpeg)
+
+![Our crazy, but cute dog Bojangles.](_files/bojangles.jpeg)
