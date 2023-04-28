@@ -14,6 +14,6 @@ We're just getting started. More to come.
 
 We'll be moving to Murray, UT this summer to be closer to Rachel's work at Michael Best. Excited for a change and to try a new place!
 
-![Us at the Portland, OR coast near the end of February.](_files/portland.jpeg)
+![Us at the Portland, OR coast near the end of February.](/_files/portland.jpeg)
 
-![Our crazy, but cute dog Bojangles.](_files/bojangles.jpeg)
+![Our crazy, but cute dog Bojangles.](/_files/bojangles.jpeg)
