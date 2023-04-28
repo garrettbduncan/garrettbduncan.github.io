@@ -10,7 +10,7 @@ We're just getting started. More to come.
 - Rachel finished her second year (of three) of law school at BYU.
 - Bojangles turned a year old this April. She's still a menace and a primmadonna.
 - Garrett bought a mountain bike recently which has become one of his top hobbies.
-- Rachel is training for a marathon at the end of the summer.
+- Rachel is training for a half-marathon at the end of the summer.
 
 We'll be moving to Murray, UT this summer to be closer to Rachel's work at Michael Best. Excited for a change and to try a new place!
 
