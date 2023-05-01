@@ -16,8 +16,8 @@ We'll be moving to Murray, UT this summer to be closer to Rachel's work at Micha
 
 <!-- ![Us at the Portland, OR coast near the end of February.](/_files/portland.jpeg) -->
 
-<img src="{{ "_posts/_files/portland2023.jpeg" | prepend: site.baseurl | prepend: site.url}}" alt="portland2023" />
+<!-- <img src="{{ "_posts/_files/portland2023.jpeg" | prepend: site.baseurl | prepend: site.url}}" alt="portland2023" /> -->
 
 <!-- ![Our crazy, but cute dog Bojangles.](/_files/bojangles.jpeg) -->
 
-<img src="{{ "_posts/_files/bojangles1.jpeg" | prepend: site.baseurl | prepend: site.url}}" alt="bojangles1" />
+<!-- <img src="{{ "_posts/_files/bojangles1.jpeg" | prepend: site.baseurl | prepend: site.url}}" alt="bojangles1" /> -->
