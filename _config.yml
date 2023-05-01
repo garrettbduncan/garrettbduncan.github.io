@@ -17,8 +17,8 @@ linkedin_username: "garrett-b-duncan"
 
 
 # Changes to get photos to show up
-url: 'https://garrettbduncan.github.io/' # your main domain
-baseurl: 'garrettbduncan/'
+# url: 'https://garrettbduncan.github.io/' # your main domain
+# baseurl: 'garrettbduncan/'
 
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
