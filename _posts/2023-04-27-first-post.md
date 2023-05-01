@@ -1,10 +1,10 @@
-# Our First Blog Post
+## Our First Blog Post
 
 We're just getting started. More to come.
 
 ---
 
-## Recent events
+### Recent events
 
 - Garrett just graduated with his masters of statistics degree from BYU. He's excited to graduate, but he'll miss his buddies there. Shoutout to Dr. Christensen for being the best advisor of all time.
 - Rachel finished her second year (of three) of law school at BYU.
