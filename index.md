@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+Two amateur endurance athletes who are obsessed with our wiener dog Bojangles.
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+We love running (Rachel), biking (Garrett), and eating good food.
