@@ -1,5 +1,9 @@
 ## Garrett Graduated
 
+5 years at BYU. Now he's off to spoil Bojangles for the next 2 weeks.
+
+---
+
 ### Recent events
 
 - Garrett just graduated with his masters of statistics degree from BYU. He's excited to graduate, but he'll miss his buddies there. Shoutout to Dr. Christensen for being the best advisor of all time.
@@ -18,7 +22,7 @@ We'll be moving to Murray, UT this summer to be closer to Rachel's work at Micha
 
 ![Cannon's came down for graduation. Photo after convocation where I walked.](/assets/images/2023-graduation-with-cannons.jpeg)
 
-![Rogue selfie taken by my advisor Dr. Christensen with my cohort. Not that this selfie sparks this comment, but he really is one of the greatest individuals I know. I look up to him a lot of ways, including his selfie technique lol.](/assets/images/2023-graduation-bike.jpeg)
+![Rogue selfie taken by my advisor Dr. Christensen with my cohort. Not that this selfie sparks this comment, but he really is one of the greatest individuals I know. I look up to him a lot of ways, including his selfie technique lol.](/assets/images/2023-graduation-dr-c-selfie.jpeg)
 
 ![Bikes are my thing I guess](/assets/images/2023-graduation-bike.jpeg)
 

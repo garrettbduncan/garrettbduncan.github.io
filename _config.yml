@@ -20,6 +20,10 @@ instagram_username: "rach_can_dunc"
 # url: 'https://garrettbduncan.github.io/' # your main domain
 # baseurl: 'garrettbduncan/'
 
+
+#### Trying to add excerpts
+show_excerpts: true
+
 #########################################################################################
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
