@@ -1,4 +1,4 @@
-## First Time Backpacking
+## First Time Bikepacking
 
 I enjoy camping and biking, but an amateur at combining the two.
 
