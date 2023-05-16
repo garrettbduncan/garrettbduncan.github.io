@@ -44,8 +44,9 @@ hr {
   opacity: 0.3;
 }
 
-/* .caption {
-  align: center;
+.caption {
+  text-align: center;
   font-weight: bold;
   color: blue;
-} */
+  width: 100%;
+}
