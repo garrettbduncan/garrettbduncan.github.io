@@ -18,14 +18,19 @@ Highlights of the day:
 - Playing basketball with some Cannons and Duncans. I've always wanted to have mine and Rachel's family ball against each other, and today I saw a glimpse of that. Super fun.
 
 ![Photo after commencement with Rachel](/assets/images/2023-04-graduation-rachel.jpeg)
-**Photo after commencement with Rachel**
+<p class="caption">Post-commencement with Rachel</p>
 
 ![Matching my advisor, Dr. Christensen, for my defense-- shaved head, bowtie, and all. He had no idea it was coming and accused me of doing everything I could so I would pass my defense.](/assets/images/2023-04-defense-matching-dr-c.jpeg)
+<p class='caption'>Matching my advisor, Dr. Christensen, for my defense-- shaved head, bowtie, and all. He had no idea it was coming and accused me of doing everything I could so I would pass my defense.</p>
 
-![Photo after commencement with my parents](/assets/images/2023-graduation-with-parents.jpeg)
+![Photo after commencement with my parents](/assets/images/2023-04-graduation-with-parents.jpeg)
+<p class='caption'>Photo after commencement with my parents.</p>
 
 ![Cannon's came down for graduation. Photo after convocation where I walked.](/assets/images/2023-04-graduation-with-cannons.jpeg)
+<p class='caption'>Cannon's came down for graduation. Photo after convocation where I walked.</p>
 
 ![Rogue selfie taken by my advisor Dr. Christensen with my cohort. Not that this selfie sparks this comment, but he really is one of the greatest individuals I know. I look up to him a lot of ways, including his selfie technique lol.](/assets/images/2023-04-graduation-dr-c-selfie.jpeg)
+<p class='caption'>Rogue selfie taken by my advisor Dr. Christensen with my cohort. Not that this selfie sparks this comment, but he really is one of the greatest individuals I know. I look up to him a lot of ways, including his selfie technique lol.</p>
 
 ![Bikes are my thing I guess](/assets/images/2023-04-graduation-bike.jpeg)
+<p class='caption'>Bikes are my thing I guess</p>
