@@ -5,7 +5,7 @@ The spring activity we've looked forward to every year for the last three years.
 ---
 
 ![Photo with Rachel after winning the 2022 season.](../assets/images/2023-06-15-intramural-rachel.jpeg)
-<p class='caption'>Photo with Rachel after winning the 2022 season (I started growing my hair out for the summer, and Rachel would braid my hair as to avoid being honor coded by the intramural refs)<>
+<p class="caption">Photo with Rachel after winning the 2022 season (I started growing my hair out for the summer, and Rachel would braid my hair as to avoid being honor coded by the intramural refs).</p>
 
 Since being admitted to the graduate statistics program at BYU, we've been invited to join the departments spring term intramural team. Professors, graduate students, and their families form the team, and since half the team is over the age of 40, no team takes us seriously. Rachel and I signed up on a whim in 2021, and we've looked forward to it every year.
 
@@ -19,7 +19,7 @@ This might have been my last season playing for the team (which makes it sound w
 - The final game of this recent season. We were down 3-6 at half and out of sync. With some luck and grit, we managed to crawl back and win! I even made the game winning catch for us to win 7-6! The environment was electric, and we couldn't believe we made such a crazy comeback.
 
 ![Photo with the team after winning for the third season in a row](../assets/images/2023-06-15-intramural-team-championship.jpeg)
-<p class='caption'>Photo with the team after winning for the third season in a row with an epic championship comeback.<>
+<p class="caption">Photo with the team after winning for the third season in a row with an epic championship comeback.</p>
 
 ![Photo with Matt Morgan after every championship](../assets/images/2023-06-15-intramural-matt.jpg)
-<p class="caption">Picture with Matt, recreated after each intramural championship- 2021, 2022, 2023.<>
+<p class="caption">Picture with Matt, recreated after each intramural championship- 2021, 2022, 2023 (with our fearless leader Brian Hartman in the background).</p>
